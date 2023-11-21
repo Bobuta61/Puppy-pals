@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: blue;
+}
+
+h2 {
+    color:brown
+}
+
+body {
+    color:blueviolet
+}
+
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  
+  .card {
+    padding: 2em;
+  }
+  
+  .read-the-docs {
+    color: #888;
+  }
+  
+  ul, table {
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+  
+  }
+  
+  Li, table, th, td {
+    border: 2px solid black;
+    padding: 1em;
+  }
+
+  
